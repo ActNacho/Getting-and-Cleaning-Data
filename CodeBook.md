@@ -9,8 +9,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
 * The run_analysis.R script performs the following steps to clean the data:   
- 1. Read X_train.txt, y_train.txt and subject_train.txt from the "./data/train" folder and store them in *trainData*, *trainLabel* and *trainSubject* variables respectively.       
- 2. Read X_test.txt, y_test.txt and subject_test.txt from the "./data/test" folder and store them in *testData*, *testLabel* and *testsubject* variables respectively.  
+ 1. Read X_train.txt, y_train.txt and subject_train.txt from the "./data/train" folder and store them in *Xtrain*, *Ytrain* and *Strain* variables respectively.       
+ 2. Read X_test.txt, y_test.txt and subject_test.txt from the "./data/test" folder and store them in *Xtest*, *Ytest* and *Stest* variables respectively.  
  3. Merge the X data (Variable Values) together, the same for the Y data (Labels) and the S data (Subjects)
  4. At the end of every step, the script removes objects from the environment that will no longer be used.
  5. Take the features name from the features.txt and put the names in the columns form X.
