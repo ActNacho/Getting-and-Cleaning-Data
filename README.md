@@ -1,7 +1,7 @@
-## Getting-and-Cleaning-Data
+# Getting-and-Cleaning-Data
 Learn how to gather, clean, and manage data from a variety of sources. This is the third course in the Johns Hopkins Data Science Specialization.
 
-# Course Project - Peer Assesment
+## Course Project - Peer Assesment
 This readme explains how to use the script run_analysis.R
 * Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in your working directory and rename the folder "data".
 * Put the script run_analysis.R in your WD (not in the "data" folder)
