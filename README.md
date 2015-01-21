@@ -15,7 +15,6 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ##How to use the script
-======================================
 This readme explains how to use the script run_analysis.R
 * Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in your working directory and rename the folder "data".
 * Put the script run_analysis.R in your WD (not in the "data" folder)
